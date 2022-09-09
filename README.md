@@ -19,6 +19,7 @@ create and manage their revenue estimates.
 • Configure alert
 
 • Attach actions(optional but it's important you do so)
+
 • Review
 
  
